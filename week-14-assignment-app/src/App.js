@@ -62,7 +62,7 @@ const onFormSubmit = (event) => {
       review: reviews,
   }
 
-  props.addReview(newReview)
+  // props.addReview(newReview)
 
   setMovies('')
   setReviews('')
